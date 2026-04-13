@@ -1,0 +1,43 @@
+{
+  "user": {
+    "id": 1,
+    "username": "proGamer",
+    "email": "pro@email.com"
+  },
+  "team": {
+    "id": 10,
+    "name": "NightRaiders",
+    "creator_id": 1,
+    "members": [
+      {
+        "id": 1,
+        "username": "proGamer",
+        "email": "pro@email.com"
+      }
+    ]
+  },
+  "match": {
+    "id": 100,
+    "scheduled_at": "2026-06-01T18:00:00",
+    "game_id": 2,
+    "team1_id": 10,
+    "team2_id": 11,
+    "game": {
+      "id": 2,
+      "name": "Valorant",
+      "genre": "FPS"
+    },
+    "team1": {
+      "id": 10,
+      "name": "NightRaiders",
+      "creator_id": 1,
+      "members": []
+    },
+    "team2": {
+      "id": 11,
+      "name": "SkyHunters",
+      "creator_id": 3,
+      "members": []
+    }
+  }
+}
