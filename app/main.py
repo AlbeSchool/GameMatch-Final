@@ -876,7 +876,7 @@ def examples() -> HTMLResponse:
                         </div>
                         <div class="field">
                             <span class="field-label">Membri</span>
-                            <span class="field-value"><span class="pill pill-cyan">0 membri</span></span>
+                            <span class="field-value"><span class="pill pill-cyan">1 membro</span> &nbsp; proGamer</span>
                         </div>
                         <div class="field">
                             <span class="field-label">ID Team</span>
